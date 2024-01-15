@@ -15,7 +15,7 @@
 1. 拉取代码
 
    ```text
-   
+   https://github.com/lidachui1998/spring-boot-starter-lrucache.git
    ```
 
 2. maven本地打包安装
